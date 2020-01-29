@@ -1,6 +1,6 @@
 # liszt
 
-Share your favorite songs
+Share your list of favorite songs
 
 ## Getting Started
 
